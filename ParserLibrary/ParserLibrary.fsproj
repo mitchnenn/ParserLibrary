@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="ROP.fs" />
+        <Compile Include="TypeP.fs" />
+        <Compile Include="CharP.fs" />
+        <Compile Include="RunP.fs" />
+        <Compile Include="Parse.fs" />
+        <Compile Include="Library.fs" />
+    </ItemGroup>
+
+</Project>
